@@ -326,7 +326,6 @@ void teclado(unsigned char key, int x, int y) {
     // Desacelerador//Inversor de Rotação
     else if (key == '/') {
         multiplicadorTempo--;
-        multiplicadorTempo = 0;
     }
 
     // Aproximação da Câmera
