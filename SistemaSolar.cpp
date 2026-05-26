@@ -8,7 +8,7 @@ float tempoGlobal = 0.0f;
 int multiplicadorTempo = 1;
 
 // Variação de foco
-char foco = '0'; // '0' = Sol/Geral, letras para os planetas
+char foco = '0'; // Retorna o foco ao Sol
 float camOffsetY = 150.0f;
 float camOffsetZ = 250.0f;
 
